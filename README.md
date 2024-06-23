@@ -14,6 +14,10 @@ Future Work:
 ## Setup
 Simply clone this project and run the program on your IDE where Java is supported. I'm using IntelliJ.
 
+## Photo
+
+![SnakeGame](https://github.com/rialuz/snake-game/assets/154552454/8cbdcf99-90cf-4d22-9f24-8871e483e4a6)
+
 ## Credits
 
 [Tutorial](https://www.youtube.com/watch?v=bI6e6qjJ8JQ&t=15s)
