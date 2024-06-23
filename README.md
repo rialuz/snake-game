@@ -1,7 +1,7 @@
 # Snake Game
 
 ## Description
-Have fun eating food and growing your Pacman with the Snake game that is set up using Java.
+Have fun eating food and growing your Pacman with this Snake game.
 I worked on this project to get more practice with Java and using JFrame which was completely new to me. I have a better understanding of it now and have some ideas for future projects.
 
 I used .fillArc() to set the snake head to represent PacMan.
